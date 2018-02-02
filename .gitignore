@@ -1,0 +1,8 @@
+# compiled output
+/dist
+/adm
+/build
+/tmp
+/out-tsc
+/.vscode
+/node_modules
